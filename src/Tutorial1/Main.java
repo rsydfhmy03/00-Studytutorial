@@ -22,7 +22,7 @@ class Mahasiswa {
 public class Main {
     public static void main(String[] args) {
         // new Mahasiswa();
-        Mahasiswa mhs = new Mahasiswa("Qintari");
+        Mahasiswa mhs = new Mahasiswa("Fahmy");
         System.out.println(mhs.nama);
 
         // System.out.println("Hello World");
